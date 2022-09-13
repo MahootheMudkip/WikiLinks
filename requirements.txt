@@ -1,2 +1,2 @@
-requests==22.2.2 
+requests
 beautifulsoup4==4.9.1
